@@ -2,7 +2,7 @@ Summary:	Adobe 75dpi bitmap fonts
 Summary(pl.UTF-8):	Fonty bitmapowe Adobe 75dpi
 Name:		xorg-font-font-adobe-75dpi
 Version:	1.0.3
-Release:	2
+Release:	3
 License:	MIT
 Group:		Fonts
 Source0:	http://xorg.freedesktop.org/releases/individual/font/font-adobe-75dpi-%{version}.tar.bz2
